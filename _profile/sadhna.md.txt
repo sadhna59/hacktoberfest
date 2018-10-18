@@ -11,15 +11,14 @@ name: Sadhna Shukla
 
 # Optional, atleast 2 recommended
 email: sadhanashukla59@gmail.com
-quora: <Your Quora profile>
-medium: <Your Medium profile>
-github: <Your GitHub profile> 
-youtube: <Your YouTube profile>
-twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
-pinterest: <Your Pinterest profile>
-stackoverflow: <Your StackOverflow profile>
+quora: https://www.quora.com/profile/Sadhna-Shukla-4
+medium: https://medium.com/@sadhanashukla59
+github: https://github.com/sadhna59 
 
+twitter: https://twitter.com/Sadhna64806255
+linkedin: https://www.linkedin.com/in/s-shukla-b37508173/
+pinterest: https://in.pinterest.com/sadhanashukla59/
+stackoverflow: https://stackoverflow.com/users/10525161/s-shukla
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
